@@ -7,7 +7,7 @@ A modern and fully responsive Coffee House website built with clean and structur
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="screnshoot.png" width="900" alt="Coffee House Website Preview"/>
+  <img src="screnshoot" width="900" alt="Coffee House Website Preview"/>
 </p>
 
 ---
@@ -30,4 +30,5 @@ A modern and fully responsive Coffee House website built with clean and structur
 ---
 
 ## 📂 Project Structure
+
 
