@@ -7,7 +7,7 @@ Modern ve responsive bir Coffee House web sitesi projesi.
 ## 📸 Proje Görseli
 
 <p align="center">
-  <img src="schrenshoot.png" width="800"/>
+  <img src="screnshoot" width="800"/>
 </p>
 
 ---
@@ -25,3 +25,4 @@ Modern ve responsive bir Coffee House web sitesi projesi.
 - HTML
 - CSS
 - JavaScript
+
