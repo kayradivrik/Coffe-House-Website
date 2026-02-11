@@ -1,28 +1,33 @@
 # ☕ Coffee House Website
 
-Modern ve responsive bir Coffee House web sitesi projesi.
+A modern and fully responsive Coffee House website built with clean and structured front-end development practices.
 
 ---
 
-## 📸 Proje Görseli
+## 📸 Project Preview
 
 <p align="center">
-  <img src="screnshoot" width="800"/>
+  <img src="screnshoot.png" width="900" alt="Coffee House Website Preview"/>
 </p>
 
 ---
 
-## 🚀 Özellikler
+## 🚀 Features
 
-- Responsive tasarım
-- Modern UI
-- Temiz kod yapısı
+- Fully Responsive Design
+- Modern and Clean UI
+- Smooth Layout Structure
+- Optimized Code Organization
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
+## 🛠 Built With
 
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+## 📂 Project Structure
 
